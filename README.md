@@ -1,3 +1,4 @@
+# Type hints added for clarity
 # web-scraper
 
 A lightweight web scraper with configurable extraction rules.
