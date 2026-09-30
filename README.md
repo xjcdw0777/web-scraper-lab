@@ -44,3 +44,8 @@ MIT
 # Reformatted
 <!-- commit 20260928232742 -->
 <!-- commit 20260929000230 -->
+## FAQ
+
+**Q: Where does the config come from?**
+
+A: `config_loader.load_config()` merges JSON over defaults.
