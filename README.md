@@ -49,3 +49,6 @@ MIT
 **Q: Where does the config come from?**
 
 A: `config_loader.load_config()` merges JSON over defaults.
+## Notes
+
+- Run `pip install -r requirements.txt` before first use.
